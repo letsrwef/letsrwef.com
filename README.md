@@ -1,4 +1,5 @@
 <div align="center">
-  <h1>letsrwef.com</h1>
+  <h1>Let's Rise with English Foundation</h1>
+  [letsrwef.com]
   <p>Upcoming, please stay tuned</p>
 </div>
